@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of vh-smartconfig
+ */
+export * from './lib/vh-smartconfig.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3ZoLXNtYXJ0Y29uZmlnL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw4QkFBOEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygdmgtc21hcnRjb25maWdcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi92aC1zbWFydGNvbmZpZy5zZXJ2aWNlJztcbiJdfQ==

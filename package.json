@@ -1,0 +1,20 @@
+{
+  "name": "vh-smartconfig",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.1.2",
+    "@angular/core": "^11.1.2",
+    "cordova-plugin-esptouch": "git+https://github.com/Viethas-App/Plugin-Esptouch-Viethas.git"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/vh-smartconfig.umd.js",
+  "module": "fesm2015/vh-smartconfig.js",
+  "es2015": "fesm2015/vh-smartconfig.js",
+  "esm2015": "esm2015/vh-smartconfig.js",
+  "fesm2015": "fesm2015/vh-smartconfig.js",
+  "typings": "vh-smartconfig.d.ts",
+  "metadata": "vh-smartconfig.metadata.json",
+  "sideEffects": false
+}
